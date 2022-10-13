@@ -1,5 +1,5 @@
 name: flutter_desktop
-description: A new Flutter plugin project.
+description: A flutter plugin to communicate with the underlying GUI platform on linux.
 version: 0.0.1
 homepage:
 
